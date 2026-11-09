@@ -1,0 +1,9 @@
+{
+  "name": "REDLINE Clean Feed - No AI Slop",
+  "short_name": "REDLINE",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00e676",
+  "icons": [{"src": "https://via.placeholder.com/512x512/00e676/000000?text=R","sizes": "512x512","type": "image/png"}]
+}
